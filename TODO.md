@@ -1,5 +1,16 @@
 # SETUP
 
+Setup your Next.js app with:
+
+- React.js
+- Tailwind CSS
+- shadcn-ui
+- Clerk
+- MongoDB
+- Mongoose
+
+## STEPS
+
 1. Configure Clerk
    1. Add all the environment variables to .env.local
 2. Configure MongoDB
